@@ -74,6 +74,7 @@
   padding: 6px 30px;
   background-color: #00285f;
   border-radius: 5px;
+  border: none;
 
   text-transform: uppercase;
   font-weight: bold;
@@ -131,7 +132,6 @@
 
   .show-catalog-container button {
     padding: 8px 40px;
-    border: none;
     border-radius: 5px;
   }
 

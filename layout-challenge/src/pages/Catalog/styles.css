@@ -1,0 +1,12 @@
+.custom-placeholder {
+  font-size: 14px;
+  color: #a7a7a7;
+}
+
+.custom-btn {
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+
+  border: none;
+}

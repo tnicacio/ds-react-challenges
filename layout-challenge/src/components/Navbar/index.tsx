@@ -6,7 +6,7 @@ import { Link, NavLink } from 'react-router-dom';
 const Navbar = () => {
   return (
     <nav className="navbar navbar-dark navbar-expand-md bg-primary navbar-custom">
-      <div className="container-fluid">
+      <div className="container-fluid container">
         <Link to="/" className="nav-text d-flex align-items-center">
           <span id='nav-logo'>Carros Top</span>
         </Link>
